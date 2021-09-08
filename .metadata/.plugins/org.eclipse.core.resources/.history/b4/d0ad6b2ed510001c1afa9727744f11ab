@@ -1,0 +1,5 @@
+package com.gabrielDevSuperio.dsvendas.entities;
+
+public class Seller {
+
+}
